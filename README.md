@@ -18,7 +18,7 @@ Due to **copyright** constraints, we are unable to provide the videos directly. 
 
 **NSFW Dataset**
 
-The NSFW dataset consists of 65,000 pornographic images and 37,000 normal images. Pornographic images were collected from legitimate websites, while non-pornographic images were collected through search engines such as baidu and bing. **This dataset is used for research purposes only. **
+The NSFW dataset consists of 65,000 pornographic images and 37,000 normal images. Pornographic images were collected from legitimate websites, while non-pornographic images were collected through search engines such as baidu and bing. **This dataset is used for research purposes only.**.
 
 Due to **copyright and regional legal** constraints, we are unable to provide the dataset directly. All requests for the NSFW dataset must be submitted to David Smith at [fffaded@163.com]()。
 
@@ -38,4 +38,4 @@ Moreira D, Avila S, Perez M, et al. Pornography classification: The hidden clues
 
 **NSFW Dataset**
 
-*An Efficient Pornographic Video Detection Framework based on Semantic and Image Enhancement.*
+An Efficient Pornographic Video Detection Framework based on Semantic and Image Enhancement.
